@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "Exa:alternativa a ls."
+title:  "Instalación manual de Guest Additions."
 date:   2019-02-11 10:53:49 +0100
 categories: jekyll update
 ---
-Exa es una herramienta construida en lenguaje Rust. [Resumen pdf](https://www.dropbox.com/preview/documentaci%C3%B3n/Exa%3A%20alternativa%20al%20comando%20ls.pdf?role=personal) 
+VirtualBox Guest Additions está diseñado para ser instalado dentro de una máquina virtual, después de que el sistema
+operativo invitado ha sido instalado, e incluyen controladores y optimizaciones para un mejor rendimiento y usabilidad del
+sistema.. [Resumen pdf](https://www.dropbox.com/preview/documentaci%C3%B3n/Instalaci%C3%B3n%20manual%20de%20VirtualBox%20Guest%20Additions.pdf?role=personal) 
