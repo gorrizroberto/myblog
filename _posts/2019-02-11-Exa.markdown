@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Exa:alternativa a ls."
-date:   2019-02-11 10:53:49 +0100
-categories: jekyll update
----
-Exa es una herramienta construida en lenguaje Rust. [Resumen pdf](https://www.dropbox.com/preview/documentaci%C3%B3n/Exa%3A%20alternativa%20al%20comando%20ls.pdf?role=personal) 
